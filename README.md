@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250px" style="object-fit:cover; border-radius: 10px;">
   
   <h1 align="center">Hi there, I'm Boriwat Wongtama! 👋</h1>
-  <h3 align="center">🚀 Software Developer Intern | Automation Enthusiast | Full Stack Developer</h3>
+  <h3 align="center">🚀 Software Develope | Automation Enthusiast | Full Stack Developer</h3>
   
   <p align="center"> 
     Computer Science Student at University of Phayao <br>
